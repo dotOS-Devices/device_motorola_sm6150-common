@@ -12,6 +12,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.audio.fluence.voicecomm=false \
     persist.vendor.audio.fluence.voicerec=false \
     persist.vendor.audio.fluence.speaker=false \
+    ro.config.vc_call_vol_steps=7 \
     ro.vendor.audio.sdk.fluencetype=fluence \
     ro.vendor.audio.sdk.ssr=false \
     vendor.audio.adm.buffering.ms=2 \
