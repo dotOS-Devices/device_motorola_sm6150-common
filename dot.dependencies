@@ -6,11 +6,5 @@
    {
       "repository":"kernel_motorola_liber",
       "target_path":"kernel/motorola/liber"
-   },
-   {
-      "remote":"github",
-      "repository":"LineageOS/android_hardware_motorola",
-      "target_path":"hardware/motorola",
-      "branch":"lineage-18.1"
    }
 ]
