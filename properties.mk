@@ -313,6 +313,10 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.delta_time.enable=true
 
+# USB
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.sys.usb.config.extra=none
+
 # WiFi
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     config.disable_rtt=true
